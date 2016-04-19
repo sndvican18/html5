@@ -1,0 +1,134 @@
+*{
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+  }
+body {
+  background:#ffffff;
+}
+
+header {
+  width: 100%;
+  height: 150px;
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-left:10px ;
+  margin-right: 10px;
+}
+ input {
+   border: 2px solid black;
+   width: 120px;
+   height: 25px;
+   margin-top: -10px;
+   margin-left: 1230px;
+ }
+  .boton {
+   border: 1px solid black;
+   background: #ccc ;
+   display: inline-block;
+   width: 60px;
+   text-align: center;
+   padding: 2px 0 ;
+
+  }
+header h1{
+  margin-top: 50px;
+  margin-left: 50px;
+  width: 220px;
+  height: 50px;
+  border: 2px solid black;
+  text-align: center;
+  padding-top: 10px;
+
+}
+.list li {
+  display: inline-block !important;
+  margin-left: 850px;
+   width: 400px ;
+  margin-top:-50px;
+}
+#barracentral{
+border: 1px solid black;
+width: 90%;
+height: 40px;
+margin-left: 5%;
+margin-top: 10px;
+font-family: sans-serif;
+font-size: 20px;
+color:  #ffffff;
+text-align: center;
+
+}
+#barracentral a{
+  margin-left: 15px;
+}
+#listasuperior1{
+border: 1px solid black;
+width: 25%;
+height: 480px;
+display: inline-block;
+margin-top: 10px;
+margin-left: 65px;
+font-family: sans-serif;
+font-size: 18px;
+color:  #ffffff;
+}
+#listasuperior1 a{
+ margin-left: 15px;
+ text-decoration: none;
+}
+li {
+  text-decoration: none;
+  margin-left: 10px;
+}
+#image{
+border: 1px solid black;
+width: 38%;
+height: 250px;
+display: inline-block;
+margin-right: 10px;
+margin-left: 10px;
+font-family: sans-serif;
+font-size: 25px;
+text-align: center;
+color:  black;
+margin-top: -10px;
+}
+#image p{
+  margin-top:75px;
+}
+#welcomenote{
+border: 1px solid black;
+width: 38%;
+height: 200px;
+display: inline-block;
+margin-right: 10px;
+margin-left: 31%;
+position: relative;
+top:-210px;
+}
+
+#listasuperior2{
+border: 1px solid black;
+width: 25%;
+height: 250px;
+display: inline-block;
+margin-top: 10px;
+font-family: arial;
+font-size: 18px;
+color:  #ffffff;
+
+}
+#listasuperior2 a{
+  margin-left: 15px;
+  text-decoration: none;
+}
+#externallinks{
+border: 1px solid black;
+width: 25%;
+height: 200px;
+display: inline-block;
+margin-top: 10px;
+position: relative;
+top: -210px;
+}
